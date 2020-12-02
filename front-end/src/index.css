@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  min-height: 80vh;
+  padding-top: 100px;
+}
+
+h3 {
+  padding: 1rem 0;
+}
+
+h1 {
+  padding: 1rem 0;
+  font-size: 1.8rem;
+  text-transform: capitalize;
+}
+h2 {
+  padding: 0.5rem 0;
+  font-size: 1.4rem;
+}
+
+.ratings span {
+  margin: 0.1rem;
+}

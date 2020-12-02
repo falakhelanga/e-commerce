@@ -1,0 +1,26 @@
+export const LOGIN_INIT = " LOGIN_INIT ";
+export const LOGIN_SUCCESS = " LOGIN_SUCCESS ";
+export const LOGIN_FAIL = " LOGIN_FAIL ";
+export const LOGOUT = "LOGOUT";
+
+export const REGISTER_INIT = " REGISTER_INIT ";
+export const REGISTER_SUCCESS = " REGISTER_SUCCESS ";
+export const REGISTER_FAIL = " REGISTER_FAIL ";
+
+export const PROFILE_INIT = " PROFILE_INIT ";
+export const PROFILE_SUCCESS = " PROFILE_SUCCESS ";
+export const PROFILE_RESET = " PROFILE_RESET ";
+
+export const PROFILE_FAIL = " PROFILE_FAIL ";
+
+export const PROFILE_UPDATE_INIT = " PROFILE_UPDATE_INIT ";
+export const PROFILE_UPDATE_SUCCESS = " PROFILE_UPDATE_SUCCESS ";
+export const PROFILE_UPDATE_FAIL = " PROFILE_UPDATE_FAIL ";
+
+export const USER_LIST_INIT = " USER_LIST_INIT ";
+export const USER_LIST_SUCCESS = " USER_LIST_SUCCESS ";
+export const USER_LIST_FAIL = " USER_LIST_FAIL ";
+
+export const USER_DELETE_INIT = " USER_DELETE_INIT ";
+export const USER_DELETE_SUCCESS = " USER_DELETE_SUCCESS ";
+export const USER_DELETE_FAIL = " USER_DELETE_FAIL ";
